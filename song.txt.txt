@@ -1,14 +1,15 @@
-<<<<<<< HEAD
+HEAD
 sword and spear
+
 wall of shields
+
 standing strong
+
 on this their chosen battle field
 
+
+
 Form the lines
+
 Shield by shield
-=======
-sword and spear
-wall of shields
-standing strong
-on this their chosen battle field
->>>>>>> e9271c1f4443c0555c35dbb4f81b9469e42b6891
+
